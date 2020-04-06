@@ -1,0 +1,10 @@
+{
+    "name": "babylio",
+    "version": "1.0.0",
+    "description": "babylio application package",
+    "license": "SEE LICENSE IN LICENSE",
+    "author": "Levent Karakus",
+    "scripts": {
+    }
+  }
+  
